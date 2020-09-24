@@ -1,5 +1,7 @@
 ### Hi there 👋
+This is my Github Profile README.md
 
+Feel free to reach me here on my [linkedin profile](https://www.linkedin.com/in/hamzafaouri/)
 <!--
 **h4m24/h4m24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
